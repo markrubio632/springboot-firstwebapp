@@ -1,2 +1,2 @@
 # springboot-firstwebapp
-Generates a to-do list manager utilizing a validation check for a specific user and password pairing.
+Generates a list of controls for the user to insert information and select from multiple checkboxes. Connects to a local database for CRUD operations. 
